@@ -1,2 +1,2 @@
-# Sudoko
+# Sudoku
 DSA project
